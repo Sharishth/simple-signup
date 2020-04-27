@@ -1,0 +1,40 @@
+/*color palette
+    #00bdaa #400082 #fe346e #f1e7b6
+*/
+body {
+    background: #400082
+}
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    padding: 5rem;
+    background: #fe346e;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    border-radius: 8px;
+    margin-top: 5.5rem;
+    margin-left: 29%
+}
+/*
+.container {
+    display: flex;
+    font-size: 2rem;
+    margin: 0px;
+    width: min-content;
+    
+}*/
+input {
+    
+    
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 10px;
+    padding: 20px;
+    font-size: 2rem;
+    
+}
